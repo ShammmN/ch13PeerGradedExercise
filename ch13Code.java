@@ -190,7 +190,7 @@ class Rectangle extends GeometricObject {
 }
 
 /*
-SimpleMax Class
+max Class
 Class that contains a static method to find the larger of two GeometricObject objects based on their area.
 */
 class max {
